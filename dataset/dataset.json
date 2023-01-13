@@ -1,0 +1,13 @@
+{
+    "intents":
+    [
+      {"tag": "hi",
+      "patterns": ["Hi", "hello", "hay", "good morning"],
+      "response": ["Hello","Hi!","How are you?"]},
+      {"tag": "how are you?",
+      "patterns": ["How are you?", "hows ticks?","how fares it?","waths up?", "how wages the world?"],
+      "response": ["How was your day?","Fine and you?", "Excellent"]},
+      {"tag": "bye",
+      "patterns": ["Bye", "good bye","good bye take care", "have good day"],
+      "response": ["Bye, have good day","Good bye take care","Have good day too!"]}
+  ]}
