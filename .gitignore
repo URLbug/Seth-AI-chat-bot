@@ -1,2 +1,5 @@
 model_weights_saved.hdf5
 config.json
+dataset.json
+word.pkl
+X_shape.pkl
